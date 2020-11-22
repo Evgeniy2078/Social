@@ -1,0 +1,24 @@
+.nav {
+  grid-area: n;
+  background-color: burlywood;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding-top: 115px;
+  border-radius: 10px;
+  background-image: url(https://i.pinimg.com/736x/d1/4e/83/d14e83aa3d4848feeb93086c71a5359c.jpg);
+  background-size: cover;
+  max-height: 500px;
+}
+.item {
+  margin-bottom: 20px;
+}
+.item a {
+  color: rgb(49, 8, 8);
+  text-decoration: none;
+  font-size: 20px;
+}
+.item a.active {
+  color: gold;
+}

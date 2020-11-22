@@ -1,0 +1,11 @@
+.item {
+  color: white;
+  margin-bottom: 30px;
+}
+
+.item a {
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: 500;
+  color: black;
+}

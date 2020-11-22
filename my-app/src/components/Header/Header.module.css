@@ -1,0 +1,10 @@
+.header {
+  grid-area: h;
+  background-image: url(https://img.freepik.com/free-vector/pink-alcohol-ink-background-abstract-fluid-art-painting-design_25819-699.jpg?size=626&ext=jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+img {
+  width: 60px;
+  height: 60px;
+}

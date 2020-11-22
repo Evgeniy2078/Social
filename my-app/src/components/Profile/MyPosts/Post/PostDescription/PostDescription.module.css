@@ -1,0 +1,7 @@
+.post_description {
+  grid-area: Description;
+  display: flex;
+  align-items: center;
+  padding-left: 30px;
+  font-size: 15px;
+}

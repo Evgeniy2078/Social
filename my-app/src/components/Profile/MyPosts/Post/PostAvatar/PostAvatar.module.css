@@ -1,0 +1,18 @@
+.post_avatar {
+  grid-area: Avatar;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+img {
+  border-radius: 50%;
+}
+span {
+  cursor: pointer;
+  font-size: 15px;
+  font-weight: 700;
+}
+span:hover {
+  color: rebeccapurple;
+}

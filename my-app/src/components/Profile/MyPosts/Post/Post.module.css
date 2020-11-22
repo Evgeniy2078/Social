@@ -1,0 +1,6 @@
+.post_wrapper {
+  display: grid;
+  grid-template-areas: "Avatar Description ";
+  grid-template-rows: 90px 1fr;
+  grid-template-columns: 3fr 10fr;
+}
