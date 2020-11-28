@@ -7,8 +7,3 @@
   grid-template-columns: 2fr 10fr;
   grid-gap: 10px;
 }
-.app_wrapper_content {
-  grid-area: c;
-  background-color: darkcyan;
-  min-height: 700px;
-}
